@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-appointment-local](modules/appointment-local)
 - [react-native-image-gallery](modules/image-gallery)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-terms-and-conditions-webview](modules/terms-and-conditions-webview)
 
 # Getting started: Frontend
 
