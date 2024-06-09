@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-disqus](backend/modules)
 - [react-native-appointment-local](modules/appointment-local)
 - [react-native-image-gallery](modules/image-gallery)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
