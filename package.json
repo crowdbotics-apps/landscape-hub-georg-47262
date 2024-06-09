@@ -18,6 +18,7 @@
     "@modules/image-gallery": "file:./modules/image-gallery/",
     "@modules/mixpanel-analytics": "file:./modules/mixpanel-analytics/",
     "@modules/onboarding": "file:./modules/onboarding/",
+    "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/terms-and-conditions-webview": "file:./modules/terms-and-conditions-webview/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
     "@react-native-masked-view/masked-view": "^0.2.9",

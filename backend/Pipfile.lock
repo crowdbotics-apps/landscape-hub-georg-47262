@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "921424eceee28579bdcca32ed386f0ebfed09aefd24ecdb95018b9eb4d06de87"
+            "sha256": "4f8b308d4c0380dfd61d19ea5dd1acb9ce6ad12303645b53356c1b0c82e72d16"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -83,6 +83,10 @@
         "cb-django-files": {
             "editable": true,
             "path": "./modules/django_files"
+        },
+        "cb-terms-and-conditions": {
+            "editable": true,
+            "path": "./modules/terms_and_conditions"
         },
         "certifi": {
             "hashes": [
