@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-contact-us](backend/modules)
 - [django-core](backend/modules)
 - [django-disqus](backend/modules)
+- [react-native-appointment-local](modules/appointment-local)
 
 # Getting started: Frontend
 
